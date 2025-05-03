@@ -1,8 +1,9 @@
 To run :
 
-cd directory_name
-npm install
-npm run dev
+
+- cd directory_name
+- npm install
+- npm run dev
 
 This project is built with:
 
